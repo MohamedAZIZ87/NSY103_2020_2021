@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #Script Information
 #Title : sort-images.sh
