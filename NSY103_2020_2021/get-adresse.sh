@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #Script Information
-#Title : adresse.sh
+#Title : get-adresse.sh
 #Author : Mohamed AZIZ
 #Date : 21/12/2020
 #Description : Ce script est pour afficher l'adresse ou pris le photo.
