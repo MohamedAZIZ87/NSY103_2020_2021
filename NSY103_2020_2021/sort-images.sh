@@ -6,7 +6,7 @@
 #Date : 21/12/2020
 #Description : Ce script est pour trier les Photos et Videos par le Pays et Ville ou sont pris.
 #Requirements : 1 - programme "exiftool".
-#				2 - programme "iconv".
+#		2 - programme "iconv".
 
 
 IFS=$'\n'
