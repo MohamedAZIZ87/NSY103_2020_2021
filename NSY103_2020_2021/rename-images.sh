@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Script Information
-#Title : renamefoto.sh
+#Title : rename-images.sh
 #Author : Mohamed AZIZ
 #Date : 21/12/2020
 #Description : Ce script est pour trier les Photos et Videos par le Pays et Ville ou sont pris.
